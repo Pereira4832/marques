@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX1">
+    <display-name lang="pt">FOX1</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Action">
+    <display-name lang="pt">FOX Action</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-action.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="pt">FOX Life</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-life.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+</tv>
