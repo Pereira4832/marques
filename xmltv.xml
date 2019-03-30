@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SporTV 3">
+    <display-name lang="pt">SporTV 3</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190329000000 -0300" stop="20190329010000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Ferroviária</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329010000 -0300" stop="20190329020000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ituano x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329020000 -0300" stop="20190329030000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Novorizontino</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329030000 -0300" stop="20190329040000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Patrocinense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329040000 -0300" stop="20190329050000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Flamengo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329050000 -0300" stop="20190329060000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Marrocos x Argentina</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329060000 -0300" stop="20190329070000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Brasil x Rep. Tcheca</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329070000 -0300" stop="20190329080000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">RB Brasil x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329080000 -0300" stop="20190329090000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ituano x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329090000 -0300" stop="20190329093000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329093000 -0300" stop="20190329104500 -0300" channel="SporTV 3">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329104500 -0300" stop="20190329110000 -0300" channel="SporTV 3">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329110000 -0300" stop="20190329123000 -0300" channel="SporTV 3">
+    <title lang="pt">Copa das Campeãs de Futsal Feminino: Female x Uruguaiana</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329123000 -0300" stop="20190329133000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329133000 -0300" stop="20190329140000 -0300" channel="SporTV 3">
+    <title lang="pt">Especial Maria Esther Bueno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329140000 -0300" stop="20190329160000 -0300" channel="SporTV 3">
+    <title lang="pt">Masters 1000</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329160000 -0300" stop="20190329170000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bangu x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329170000 -0300" stop="20190329180000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Ferroviária</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329180000 -0300" stop="20190329190000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Juventude</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329190000 -0300" stop="20190329200000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Novorizontino</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329200000 -0300" stop="20190329220000 -0300" channel="SporTV 3">
+    <title lang="pt">Masters 1000</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329220000 -0300" stop="20190329230000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329230000 -0300" stop="20190330000000 -0300" channel="SporTV 3">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330000000 -0300" stop="20190330010000 -0300" channel="SporTV 3">
+    <title lang="pt">Especial UFC</title>
+    <sub-title lang="pt">Barboza x Gaethje</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330010000 -0300" stop="20190330020000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330020000 -0300" stop="20190330030000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Assunção x Moraes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330030000 -0300" stop="20190330040000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Cigano x Lewis</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330040000 -0300" stop="20190330050000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330050000 -0300" stop="20190330060000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Silva x Adesanya</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330060000 -0300" stop="20190330070000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330110000 -0300" channel="SporTV 3">
+    <title lang="pt">Mundial de Cross Country</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330120000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330123500 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330123500 -0300" stop="20190330133000 -0300" channel="SporTV 3">
+    <title lang="pt">Mundial de Motovelocidade Treino Oficial Moto3</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330133000 -0300" stop="20190330140000 -0300" channel="SporTV 3">
+    <title lang="pt">Mundial de Motovelocidade: Treino Oficial Moto2, Argentina</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330150000 -0300" channel="SporTV 3">
+    <title lang="pt">Mundial de Motovelocidade: Treino Livre da MotoGP, Argentina</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330161000 -0300" channel="SporTV 3">
+    <title lang="pt">Mundial de Motovelocidade Treino Oficial MotoGP: Argentina</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330161000 -0300" stop="20190330163000 -0300" channel="SporTV 3">
+    <title lang="pt">Aquecimento Combate</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330163000 -0300" stop="20190330193000 -0300" channel="SporTV 3">
+    <title lang="pt">UFC: Barboza x Gaethje</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330193000 -0300" stop="20190330200000 -0300" channel="SporTV 3">
+    <title lang="pt">NBA Action</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330223000 -0300" channel="SporTV 3">
+    <title lang="pt">NBA: Detroit Pistons x Portland T. Blazers</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330223000 -0300" stop="20190331013000 -0300" channel="SporTV 3">
+    <title lang="pt">Boxe Internacional: Garcia x Lopez</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331013000 -0300" stop="20190331043000 -0300" channel="SporTV 3">
+    <title lang="pt">UFC: Barboza x Gaethje</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331043000 -0300" stop="20190331053000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Assunção x Moraes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331053000 -0300" stop="20190331063000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Cigano x Lewis</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331063000 -0300" stop="20190331073000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Silva x Adesanya</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331073000 -0300" stop="20190331083000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Juventude</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331083000 -0300" stop="20190331093000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boa Esporte x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331093000 -0300" stop="20190331103000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Flamengo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331103000 -0300" stop="20190331123000 -0300" channel="SporTV 3">
+    <title lang="pt">Supercopa Brasil de Futebol de 5 Paralímpico</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331123000 -0300" stop="20190331133000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Sul-americano de Futebol Sub-17: Brasil x Argentina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331133000 -0300" stop="20190331140000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331140000 -0300" stop="20190331170000 -0300" channel="SporTV 3">
+    <title lang="pt">Masters 1000</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331190000 -0300" channel="SporTV 3">
+    <title lang="pt">Masters 1000</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331193000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331193000 -0300" stop="20190331213000 -0300" channel="SporTV 3">
+    <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Maringá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331213000 -0300" stop="20190401000000 -0300" channel="SporTV 3">
+    <title lang="pt">NBA: G. S. Warriors x Charlotte Hornets</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401000000 -0300" stop="20190401020000 -0300" channel="SporTV 3">
+    <title lang="pt">Liga das Américas de Basquete</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401040000 -0300" channel="SporTV 3">
+    <title lang="pt">Liga das Américas de Basquete</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401040000 -0300" stop="20190401060000 -0300" channel="SporTV 3">
+    <title lang="pt">UFC: Barboza x Gaethje</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401070000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Estadual de Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401080000 -0300" channel="SporTV 3">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401090000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401100000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Gaúcho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401110000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Paulista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401120000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Gaúcho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401120000 -0300" stop="20190401130000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401140000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boa Esporte x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401150000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Paulista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401150000 -0300" stop="20190401160000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Carioca de Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401170000 -0300" channel="SporTV 3">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401181000 -0300" channel="SporTV 3">
+    <title lang="pt">Grande Círculo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401181000 -0300" stop="20190401210000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Barboza x Gaethje</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401220000 -0300" channel="SporTV 3">
+    <title lang="pt">Especial UFC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190402000000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402005000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Thompson x Pettis</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402005000 -0300" stop="20190402014500 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Assunção x Moraes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402014500 -0300" stop="20190402023500 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Cigano x Lewis</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402023500 -0300" stop="20190402033500 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402033500 -0300" stop="20190402063000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Barboza x Gaethje</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402063000 -0300" stop="20190402070000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402080000 -0300" channel="SporTV 3">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402090000 -0300" channel="SporTV 3">
+    <title lang="pt">Boxe Internacional: Robson Conceição x Sergio Estrela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402100000 -0300" channel="SporTV 3">
+    <title lang="pt">Boxe Internacional: Esquiva Falcão x Jorge Miranda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402120000 -0300" channel="SporTV 3">
+    <title lang="pt">Superliga de Vôlei Feminino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402120000 -0300" stop="20190402130000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Paulista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402140000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Paulista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402150000 -0300" channel="SporTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402160000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402180000 -0300" channel="SporTV 3">
+    <title lang="pt">Fórmula 1</title>
+    <sub-title lang="pt">GP do Bahrain</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402183000 -0300" channel="SporTV 3">
+    <title lang="pt">NBA Inside Stuff</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402183000 -0300" stop="20190402191500 -0300" channel="SporTV 3">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402191500 -0300" stop="20190402211500 -0300" channel="SporTV 3">
+    <title lang="pt">San Jose (BOL) x Ldu (EQU)</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402211500 -0300" stop="20190402225000 -0300" channel="SporTV 3">
+    <title lang="pt">Campeonato Sul-americano de Futebol Sub-17</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402225000 -0300" stop="20190402230000 -0300" channel="SporTV 3">
+    <title lang="pt">Galeria SporTV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190403013000 -0300" channel="SporTV 3">
+    <title lang="pt">NBA: Sacramento Kings x Houston Rockets</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
