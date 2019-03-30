@@ -1,0 +1,1039 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190329000000 -0300" stop="20190329013000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329013000 -0300" stop="20190329020000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329020000 -0300" stop="20190329023000 -0300" channel="Arte 1">
+    <title lang="pt">Segundo Take</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329023000 -0300" stop="20190329034500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 In Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329034500 -0300" stop="20190329044500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329044500 -0300" stop="20190329051500 -0300" channel="Arte 1">
+    <title lang="pt">A Arte do Cinema</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329051500 -0300" stop="20190329054500 -0300" channel="Arte 1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329054500 -0300" stop="20190329060000 -0300" channel="Arte 1">
+    <title lang="pt">O Artista é uma Ponte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329060000 -0300" stop="20190329063000 -0300" channel="Arte 1">
+    <title lang="pt">Especial Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329063000 -0300" stop="20190329080000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329080000 -0300" stop="20190329093000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329093000 -0300" stop="20190329103000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329103000 -0300" stop="20190329114500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329114500 -0300" stop="20190329120000 -0300" channel="Arte 1">
+    <title lang="pt">O Artista é uma Ponte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329120000 -0300" stop="20190329130000 -0300" channel="Arte 1">
+    <title lang="pt">Work In Progress</title>
+    <sub-title lang="pt">Por Dentro da OSESP</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329130000 -0300" stop="20190329133000 -0300" channel="Arte 1">
+    <title lang="pt">Especial Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329133000 -0300" stop="20190329140000 -0300" channel="Arte 1">
+    <title lang="pt">Jazz Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329140000 -0300" stop="20190329143000 -0300" channel="Arte 1">
+    <title lang="pt">Um Artista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329143000 -0300" stop="20190329154500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 In Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329154500 -0300" stop="20190329155200 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329155200 -0300" stop="20190329160000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329160000 -0300" stop="20190329173000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329173000 -0300" stop="20190329180000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329180000 -0300" stop="20190329190000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329190000 -0300" stop="20190329193000 -0300" channel="Arte 1">
+    <title lang="pt">Segundo Take</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329193000 -0300" stop="20190329200000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329200000 -0300" stop="20190329200500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329200500 -0300" stop="20190329201200 -0300" channel="Arte 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329201200 -0300" stop="20190329202200 -0300" channel="Arte 1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329202200 -0300" stop="20190329203000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329203000 -0300" stop="20190329213000 -0300" channel="Arte 1">
+    <title lang="pt">Work In Progress</title>
+    <sub-title lang="pt">Por Dentro da OSESP</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329213000 -0300" stop="20190329220000 -0300" channel="Arte 1">
+    <title lang="pt">Jazz Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329220000 -0300" stop="20190329223000 -0300" channel="Arte 1">
+    <title lang="pt">A Arte do Cinema</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329223000 -0300" stop="20190329231500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329231500 -0300" stop="20190329234500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190329234500 -0300" stop="20190330000000 -0300" channel="Arte 1">
+    <title lang="pt">O Artista é uma Ponte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330000000 -0300" stop="20190330014500 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330014500 -0300" stop="20190330021500 -0300" channel="Arte 1">
+    <title lang="pt">Encontros Literários</title>
+    <sub-title lang="pt">ComTexto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330021500 -0300" stop="20190330024500 -0300" channel="Arte 1">
+    <title lang="pt">Jazz Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330024500 -0300" stop="20190330025200 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330025200 -0300" stop="20190330030000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330030000 -0300" stop="20190330040000 -0300" channel="Arte 1">
+    <title lang="pt">Eu Te Dedico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330040000 -0300" stop="20190330053000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330053000 -0300" stop="20190330061500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330061500 -0300" stop="20190330064500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330064500 -0300" stop="20190330074500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330074500 -0300" stop="20190330093000 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330093000 -0300" stop="20190330104500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 In Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330104500 -0300" stop="20190330105200 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330105200 -0300" stop="20190330110000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330120000 -0300" channel="Arte 1">
+    <title lang="pt">Saudade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330123000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330123000 -0300" stop="20190330123500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330123500 -0300" stop="20190330124200 -0300" channel="Arte 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330124200 -0300" stop="20190330125200 -0300" channel="Arte 1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330125200 -0300" stop="20190330130000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330133000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330133000 -0300" stop="20190330140000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330143000 -0300" channel="Arte 1">
+    <title lang="pt">Segundo Take</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330143000 -0300" stop="20190330153000 -0300" channel="Arte 1">
+    <title lang="pt">Work In Progress</title>
+    <sub-title lang="pt">Por Dentro da OSESP</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330153000 -0300" stop="20190330160000 -0300" channel="Arte 1">
+    <title lang="pt">Especial Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330174500 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330174500 -0300" stop="20190330180000 -0300" channel="Arte 1">
+    <title lang="pt">O Artista é uma Ponte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330193000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330193000 -0300" stop="20190330200000 -0300" channel="Arte 1">
+    <title lang="pt">Encontros Literários</title>
+    <sub-title lang="pt">ComTexto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330210000 -0300" channel="Arte 1">
+    <title lang="pt">Saudade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330210000 -0300" stop="20190330213000 -0300" channel="Arte 1">
+    <title lang="pt">Estilo Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330213000 -0300" stop="20190330220000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330220000 -0300" stop="20190330223000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330223000 -0300" stop="20190330230000 -0300" channel="Arte 1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190331000000 -0300" channel="Arte 1">
+    <title lang="pt">Eu Te Dedico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331000000 -0300" stop="20190331010000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331020000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331023000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331030000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331033000 -0300" channel="Arte 1">
+    <title lang="pt">Segundo Take</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331033000 -0300" stop="20190331034500 -0300" channel="Arte 1">
+    <title lang="pt">O Artista é uma Ponte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331034500 -0300" stop="20190331041500 -0300" channel="Arte 1">
+    <title lang="pt">Especial Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331041500 -0300" stop="20190331060000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331060000 -0300" stop="20190331063000 -0300" channel="Arte 1">
+    <title lang="pt">Jazz Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331063000 -0300" stop="20190331070000 -0300" channel="Arte 1">
+    <title lang="pt">Encontros Literários</title>
+    <sub-title lang="pt">ComTexto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331073000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331073000 -0300" stop="20190331090000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331100000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331100000 -0300" stop="20190331110000 -0300" channel="Arte 1">
+    <title lang="pt">Work In Progress</title>
+    <sub-title lang="pt">Por Dentro da OSESP</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331120000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331130000 -0300" channel="Arte 1">
+    <title lang="pt">Eu Te Dedico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331140000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331140000 -0300" stop="20190331143000 -0300" channel="Arte 1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331143000 -0300" stop="20190331153000 -0300" channel="Arte 1">
+    <title lang="pt">Saudade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331153000 -0300" stop="20190331161500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331161500 -0300" stop="20190331164500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331164500 -0300" stop="20190331165200 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331165200 -0300" stop="20190331170000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331183000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331183000 -0300" stop="20190331190000 -0300" channel="Arte 1">
+    <title lang="pt">A Arte do Cinema</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331193000 -0300" channel="Arte 1">
+    <title lang="pt">Estilo Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331193000 -0300" stop="20190331203000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331203000 -0300" stop="20190331210000 -0300" channel="Arte 1">
+    <title lang="pt">Encontros Literários</title>
+    <sub-title lang="pt">ComTexto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331220000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331220000 -0300" stop="20190331223000 -0300" channel="Arte 1">
+    <title lang="pt">Fé na Batida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190331223000 -0300" stop="20190401000000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401000000 -0300" stop="20190401013000 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401013000 -0300" stop="20190401020000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401020500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401020500 -0300" stop="20190401021200 -0300" channel="Arte 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401021200 -0300" stop="20190401022200 -0300" channel="Arte 1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401022200 -0300" stop="20190401023000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401023000 -0300" stop="20190401033000 -0300" channel="Arte 1">
+    <title lang="pt">Work In Progress</title>
+    <sub-title lang="pt">Por Dentro da OSESP</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401033000 -0300" stop="20190401050000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401060000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401070000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401073000 -0300" channel="Arte 1">
+    <title lang="pt">Encontros Literários</title>
+    <sub-title lang="pt">ComTexto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401073000 -0300" stop="20190401093000 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401093000 -0300" stop="20190401100000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401100400 -0300" channel="Arte 1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401100400 -0300" stop="20190401101000 -0300" channel="Arte 1">
+    <title lang="pt">Cena Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401101000 -0300" stop="20190401101600 -0300" channel="Arte 1">
+    <title lang="pt">Inspirações Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401101600 -0300" stop="20190401102100 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401102100 -0300" stop="20190401103000 -0300" channel="Arte 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401103000 -0300" stop="20190401110000 -0300" channel="Arte 1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401130000 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401140000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401143000 -0300" channel="Arte 1">
+    <title lang="pt">A Arte do Cinema</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401143000 -0300" stop="20190401153000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 na Dança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401153000 -0300" stop="20190401160000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 na Dança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401180000 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401190000 -0300" channel="Arte 1">
+    <title lang="pt">Eu Te Dedico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401190000 -0300" stop="20190401204500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Nacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401204500 -0300" stop="20190401205200 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401205200 -0300" stop="20190401210000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401213000 -0300" channel="Arte 1">
+    <title lang="pt">Jazz Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401213000 -0300" stop="20190401223000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401223000 -0300" stop="20190401234500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 In Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190401234500 -0300" stop="20190402000000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402014500 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402014500 -0300" stop="20190402024500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402024500 -0300" stop="20190402031500 -0300" channel="Arte 1">
+    <title lang="pt">Estilo Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402031500 -0300" stop="20190402051500 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402051500 -0300" stop="20190402061500 -0300" channel="Arte 1">
+    <title lang="pt">Eu Te Dedico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402061500 -0300" stop="20190402071500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 na Dança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402071500 -0300" stop="20190402074500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 na Dança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402074500 -0300" stop="20190402093000 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402093000 -0300" stop="20190402100000 -0300" channel="Arte 1">
+    <title lang="pt">Segundo Take</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402103000 -0300" channel="Arte 1">
+    <title lang="pt">Encontros Literários</title>
+    <sub-title lang="pt">ComTexto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402103000 -0300" stop="20190402113000 -0300" channel="Arte 1">
+    <title lang="pt">Eu Te Dedico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402113000 -0300" stop="20190402120000 -0300" channel="Arte 1">
+    <title lang="pt">Estilo Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402120000 -0300" stop="20190402130000 -0300" channel="Arte 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402133000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402133000 -0300" stop="20190402140000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402143000 -0300" channel="Arte 1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402143000 -0300" stop="20190402150000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402150400 -0300" channel="Arte 1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402150400 -0300" stop="20190402151000 -0300" channel="Arte 1">
+    <title lang="pt">Cena Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402151000 -0300" stop="20190402151600 -0300" channel="Arte 1">
+    <title lang="pt">Inspirações Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402151600 -0300" stop="20190402152100 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402152100 -0300" stop="20190402153000 -0300" channel="Arte 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402153000 -0300" stop="20190402160000 -0300" channel="Arte 1">
+    <title lang="pt">Jazz Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402174500 -0300" channel="Arte 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402174500 -0300" stop="20190402175200 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402175200 -0300" stop="20190402180000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402191500 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402191500 -0300" stop="20190402193000 -0300" channel="Arte 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402203000 -0300" channel="Arte 1">
+    <title lang="pt">Work In Progress</title>
+    <sub-title lang="pt">Por Dentro da OSESP</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402203000 -0300" stop="20190402210000 -0300" channel="Arte 1">
+    <title lang="pt">A Arte do Cinema</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402210000 -0300" stop="20190402213000 -0300" channel="Arte 1">
+    <title lang="pt">Especial Arte 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402213000 -0300" stop="20190402220000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402223000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402223000 -0300" stop="20190402233000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190402233000 -0300" stop="20190403000000 -0300" channel="Arte 1">
+    <title lang="pt">Um Artista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
